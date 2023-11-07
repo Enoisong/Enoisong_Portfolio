@@ -51,7 +51,7 @@ Enoisong_Portfolio is a mobile website designed as part of Microverse coursework
 <!-- LIVE DEMO -->
  
 ## 🚀 Live Demo <a name="live-demo"></a>
- https://enoisong.github.io/mobile-version-redo/
+ https://enoisong.github.io/Enoisong_Portfolio/
 
 ## 💻 Getting Started <a name="getting-started"></a>
 clone from repository: https://github.com/Enoisong/Enoisong_Portfolio.git
