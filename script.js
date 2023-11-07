@@ -166,9 +166,9 @@ const cardsInfo = [
     title: 'PHP Form_Calculator',
     description: 'A single page web application form that allows users to  perform addition, subtraction, multiplication and division..',
     tech_stack: {
-      tech1: 'HTML',
+      tech1: 'PHP',
       tech2: 'CSS',
-      tech3: 'PHP',
+      tech3: 'HTML',
     },
     liveLink: 'http://localhost/calculator_php/index.php',
     sourceLink: 'https://github.com/Enoisong/calculator_php.git',
