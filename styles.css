@@ -1049,7 +1049,8 @@
       grid-row: 2/4;
       grid-column: 3/4;
       width: 400px;
-      height: 400px;
+      height: 450px;
+      
     }
   
     .work-section {
@@ -1395,5 +1396,4 @@
     #email {
       padding-left: 1.5%;
     }
-  }
-  
+  }  
