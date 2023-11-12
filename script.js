@@ -178,7 +178,7 @@ const cardsInfo = [
     class: 'calculator',
     image: 'math_magicians.png',
     title: 'Math Magicians',
-    description: 'Math Magicians is a single page application built with React. It can be used to deal with simple calculations and to display a random quote.',
+    description: 'Math Magicians is a single page application built with React. It can be used to deal with simple calculations and to display a random quote each time the page reloads.',
     tech_stack: {
       tech1: 'React',
       tech2: 'CSS',
