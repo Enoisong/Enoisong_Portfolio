@@ -204,16 +204,16 @@ const cardsInfo = [
   {
     id: 5,
     class: 'got',
-    image: 'login and signup.png',
-    title: 'CampusConnect',
-    description: 'CampusConnect is a mobile app that facilitate seamless communication and collaboration among students, faculty, and staff',
+    image: 'WhimsyNamer.png',
+    title: 'WhimsyNamer',
+    description: 'Checkout this user-friendly app that efficiently showcase a list of student names, providing an organized and accessible interface for users.',
     tech_stack: {
       tech1: 'PHP',
       tech2: 'HTML',
-      tech3: 'Bootstrap',
+      tech3: 'CSS',
     },
-    liveLink: 'https://enoisong.github.io/CampusConnect/', 
-        sourceLink: 'https://github.com/Enoisong/CampusConnect.git',
+    liveLink: 'http://localhost/WhimsyNamer/test.php', 
+        sourceLink: 'https://github.com/Enoisong/WhimsyNamer.git',
   },
   {
     id: 6,
@@ -275,7 +275,7 @@ const popupInfo = (projectId) => {
                           </ul>
                         </div>
                         <div class="content">
-                          <div><img src="assets/${checked.image}" class='popup-img' /></div>
+                        <div><img src="assets/${checked.image}" class='popup-img' /></div>
                           <div class="right-section">
                             <p class="description popup">${checked.description}</p>
                             <div class="button-container">
