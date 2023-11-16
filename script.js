@@ -170,8 +170,8 @@ const cardsInfo = [
       tech2: 'CSS',
       tech3: 'HTML',
     },
-    liveLink: 'http://localhost/calculator_php/index.php',
-    sourceLink: 'https://github.com/Enoisong/calculator_php.git',
+    liveLink: 'http://localhost/php_calculator/index.php',
+    sourceLink: 'https://github.com/Enoisong/php_calculator.git',
   },
   {
     id: 3,
