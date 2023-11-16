@@ -209,8 +209,9 @@ const cardsInfo = [
     description: 'Checkout this user-friendly app that efficiently showcase a list of student names, providing an organized and accessible interface for users.',
     tech_stack: {
       tech1: 'PHP',
-      tech2: 'HTML',
-      tech3: 'CSS',
+      tech2: 'postgreSQL',
+      tech3: 'HTML/CSS',
+       
     },
     liveLink: 'http://localhost/WhimsyNamer/test.php', 
         sourceLink: 'https://github.com/Enoisong/WhimsyNamer.git',
